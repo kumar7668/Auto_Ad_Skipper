@@ -12,7 +12,7 @@ The Youtube Ad Skipper is a Python script that uses Selenium to automate the ski
 ## Installation
 1. Clone the repository:
 
-- git clone https://github.com/<username>/youtube-ad-skipper.git
+- git clone https://github.com/kumar7668/Auto_Ad_Skipper.git
 
 2. Install the required packages:
 
